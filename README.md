@@ -22,7 +22,7 @@ This portal solves these issues with a centralized platform for managing hostel 
 **Frontend**: React, HTML, CSS, JavaScript  
 **Backend**: Node.js, Express.js  
 **Database**: MongoDB  
-**Authentication**: (Optional: JWT / Google Auth)
+**Authentication**: JWT 
 
 ## 💡 How It Works
 
